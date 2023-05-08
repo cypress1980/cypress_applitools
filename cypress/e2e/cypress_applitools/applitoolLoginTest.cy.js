@@ -1,8 +1,7 @@
 describe('Hello world', () => {
   beforeEach(() => {
     cy.eyesOpen({
-      appName: 'Hello World!',
-      browser: { width: 800, height: 600 },
+      appName: 'Hello Applitools',
     });
   });
 
