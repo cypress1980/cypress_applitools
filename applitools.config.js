@@ -12,3 +12,4 @@ module.exports = {
     ],
     batchName: 'Cypress JavaScript with the Ultrafast Grid',
 }
+

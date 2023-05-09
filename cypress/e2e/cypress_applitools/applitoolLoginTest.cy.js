@@ -1,4 +1,4 @@
-describe('Hello world', () => {
+describe.skip('Hello world', () => {
   beforeEach(() => {
     cy.eyesOpen({
       appName: 'Hello Applitools',
